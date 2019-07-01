@@ -10,7 +10,7 @@ from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
 
-export_file_url = 'https://www.googleapis.com/drive/v3/files/1xJYaIJLyc1mEUADKkumgyojyFpg1tVff?alt=media&key=AIzaSyCqPALKBFwX4rpEEYZ6y3jyvYfY0I4D2KU'
+export_file_url = 'https://www.googleapis.com/drive/v3/files/1mvvrx0Hdkgc8M5l_Db3296SHlDhDcaZD?alt=media&key=AIzaSyCqPALKBFwX4rpEEYZ6y3jyvYfY0I4D2KU'
 export_file_name = 'export_age.pkl'
 
 path = Path(__file__).parent
